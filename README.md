@@ -1,5 +1,5 @@
 # grafana
-This **Grafana Dashboard JSON** can be used to proactively monitor and analyze memory and CPU alerts, providing better visibility into recurring issues and improving operational efficiency.
+This **Grafana Dashboard JSON** can be used to proactively monitor and analyze prometheus memory and CPU alerts, providing better visibility into recurring issues and improving operational efficiency.
 
 The dashboard offers the following capabilities:
 
